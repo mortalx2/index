@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(128, 128, 128, 0.781);
+}
+
+.container{
+    
+}
+
+h3{
+    background-color: orchid;
+    color: springgreen;
+    text-align: center;    
+}
+
+h3:hover{
+    color: yellow;
+}
+
+.content img{
+    display: flex;
+    max-width: 159px;
+    max-height: 100px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 590px;
+    margin-top: 130px;
+    border-radius: 15px;
+}
+
